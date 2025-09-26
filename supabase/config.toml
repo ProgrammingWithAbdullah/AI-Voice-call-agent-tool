@@ -1,0 +1,7 @@
+project_id = "pcraajmujnhmrqqhnlne"
+
+[functions.trigger-call]
+verify_jwt = false
+
+[functions.retell-webhook]
+verify_jwt = false
